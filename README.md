@@ -6,6 +6,8 @@ Um projeto criado com Quasar Framework e back-end sem código gerado pela plataf
 
 > O Deskree é uma solução de desenvolvimento de back-end sem código baseada na Web que permite que qualquer pessoa crie back-end para qualquer aplicativo em menos de 10 minutos. Configure seu banco de dados, integrações, funções e permissões de usuários, autenticação e muito mais; obtenha sua API pronta para uso para conectá-la ao seu front-end.
 
+<img src="./docs/arquitetura-deskree.png" alt="arquitetura deskree">
+
 Registre-se e teste gratuitamente: https://www.deskree.com/
 
 --- 
